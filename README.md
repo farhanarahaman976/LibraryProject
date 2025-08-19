@@ -29,6 +29,17 @@ This project allows users to manage books and members, issue and return books, a
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/farhanarahaman976/LibraryProject
+   cd LibraryProject
+## ▶️ Run the Python file
 
+To run the project, simply execute:
+
+```bash
+python library_system.py
+
+## 👩‍💻 Author
+
+**Farhana Rahaman Adiba**  
+📧 farhana.rahaman37@gmail.com  
+🆔 11220320976   
