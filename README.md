@@ -31,22 +31,40 @@ This project allows users to manage books and members, issue and return books, a
    ```bash
    git clone https://github.com/farhanarahaman976/LibraryProject
    cd LibraryProject
-
----
+--- 
 
 ## ▶️ Run the Python file
 
-To run the project, simply execute:
+1. To run the project, simply execute:
 
-```bash
-`python library_system.py`
+   ```bash
+python library_system.py
 
 ---
+## 📊 Results & Analysis
 
+- The system successfully manages books and members.
+
+- Users can issue and return books easily.
+
+- The SQLite database ensures data persistence.
+
+## 🚀 Future Improvements
+
+- Add Admin/User login system
+
+- Generate Reports in PDF/Excel
+
+- Implement Search filters (by availability, category, etc.)
+  
 ## 👩‍💻 Author
 
 **Farhana Rahaman Adiba**  
 📧 farhana.rahaman37@gmail.com  
-🆔 11220320976  
- 
+🆔 11220320976
+GitHub: [@farhanarahaman976](https://github.com/farhanarahaman976)
+
+
+
+
   
