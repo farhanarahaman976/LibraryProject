@@ -38,7 +38,7 @@ This project allows users to manage books and members, issue and return books, a
 1. To run the project, simply execute:
 
    ```bash
-python library_system.py
+   python library_system.py
 
 ---
 ## 📊 Results & Analysis
@@ -60,9 +60,9 @@ python library_system.py
 ## 👩‍💻 Author
 
 **Farhana Rahaman Adiba**  
-📧 farhana.rahaman37@gmail.com  
-🆔 11220320976
-GitHub: [@farhanarahaman976](https://github.com/farhanarahaman976)
+- 📧 farhana.rahaman37@gmail.com  
+- 🆔 11220320976
+- GitHub: [@farhanarahaman976](https://github.com/farhanarahaman976)
 
 
 
